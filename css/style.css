@@ -2,10 +2,10 @@
 		margin: 0px;
 		height: 100%;
 		overflow-x: hidden;
+		scroll-behavior: smooth;
 	}
 
 	html{
-		overflow-x: hidden;
 		height: 100%;
 	}
 
